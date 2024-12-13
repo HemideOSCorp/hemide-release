@@ -2,7 +2,7 @@
 
 Released: November 6, 2024
 
-End of mainstream support: December 10, 2024
+End of mainstream support: December 19, 2024
 
 End of extended support: January 14, 2025
 
